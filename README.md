@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/FayazBalajipeta/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/FayazBalajipeta/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
