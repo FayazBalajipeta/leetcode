@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/FayazBalajipeta/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2050-count-good-numbers](https://github.com/FayazBalajipeta/leetcode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/FayazBalajipeta/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/FayazBalajipeta/leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
