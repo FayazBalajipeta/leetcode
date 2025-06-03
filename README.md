@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/FayazBalajipeta/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/FayazBalajipeta/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/FayazBalajipeta/leetcode/tree/master/2050-count-good-numbers) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/FayazBalajipeta/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/FayazBalajipeta/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FayazBalajipeta/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/FayazBalajipeta/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/FayazBalajipeta/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
