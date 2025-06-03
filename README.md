@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/FayazBalajipeta/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/FayazBalajipeta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1677-matrix-diagonal-sum](https://github.com/FayazBalajipeta/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/FayazBalajipeta/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/FayazBalajipeta/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/FayazBalajipeta/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/FayazBalajipeta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Graph
+|  |
+| ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/FayazBalajipeta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 <!---LeetCode Topics End-->
