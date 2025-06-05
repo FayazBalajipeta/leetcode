@@ -110,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/FayazBalajipeta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/FayazBalajipeta/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/FayazBalajipeta/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
