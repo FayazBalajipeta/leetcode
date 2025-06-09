@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/FayazBalajipeta/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1677-matrix-diagonal-sum](https://github.com/FayazBalajipeta/leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/FayazBalajipeta/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/FayazBalajipeta/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/FayazBalajipeta/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/FayazBalajipeta/leetcode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/FayazBalajipeta/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/FayazBalajipeta/leetcode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/FayazBalajipeta/leetcode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/FayazBalajipeta/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/FayazBalajipeta/leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/FayazBalajipeta/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/FayazBalajipeta/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/FayazBalajipeta/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/FayazBalajipeta/leetcode/tree/master/0155-min-stack) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/FayazBalajipeta/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
